@@ -1,0 +1,4 @@
+#Fri Oct 23 11:01:50 JST 2020
+base.0=/Users/ronalds/Projects/flutter_chat_ui_starter-master/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
